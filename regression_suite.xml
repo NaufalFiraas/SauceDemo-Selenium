@@ -4,7 +4,7 @@
     <test name="SauceDemo Test Execution">
         <groups>
             <run>
-                <include name="smoke"/>
+                <include name="regression"/>
             </run>
         </groups>
         <classes>
