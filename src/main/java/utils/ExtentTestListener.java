@@ -19,6 +19,7 @@ public class ExtentTestListener implements ITestListener {
         return test.get();
     }
 
+    @Override
     public void onStart(ITestContext context) {
         ExtentReportManager.getInstance();
     }
@@ -53,6 +54,7 @@ public class ExtentTestListener implements ITestListener {
         }
     }
 
+    @Override
     public void onFinish(ITestContext context) {
         ExtentReportManager.getInstance().flush();
     }
