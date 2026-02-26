@@ -2,10 +2,13 @@ package pages;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
+import org.openqa.selenium.WebElement;
 import org.openqa.selenium.support.ui.ExpectedConditions;
 import org.openqa.selenium.support.ui.WebDriverWait;
+import utils.Log;
 
 import java.time.Duration;
+import java.util.List;
 
 public class ProductsPage {
     private final WebDriverWait wait;
@@ -17,6 +20,14 @@ public class ProductsPage {
     }
 
     private final By webTitle = By.cssSelector(".title");
+    private final By inventItems = By.cssSelector(".inventory_item");
+    private final By inventName = By.cssSelector("div[data-test='inventory-item-name']");
+    private final By inventDesc = By.cssSelector("div[data-test='inventory-item-desc']");
+    private final By inventPrice = By.cssSelector("div[data-test='inventory-item-price']");
+    private final By inventImg = By.cssSelector("img[class='inventory_item_img']");
+    private final By cartBadge = By.cssSelector("span[data-test='shopping-cart-badge']");
+    private final By addToCartBtn = By.cssSelector("button[data-test*='add-to-cart']");
+    private final By removeButton = By.cssSelector("button[data-test*='remove-']");
 
     public String getPageTitle() {
         return wait.until(ExpectedConditions.visibilityOfElementLocated(this.webTitle)).getText();
@@ -25,4 +36,60 @@ public class ProductsPage {
     public String getPageUrl() {
         return driver.getCurrentUrl();
     }
+
+    public boolean isInventoryListDisplayed() {
+        List<WebElement> inventItems = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventItems));
+        return !inventItems.isEmpty();
+    }
+
+    public boolean isNameDescPriceDisplayed() {
+        List<WebElement> inventItems = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventItems));
+        List<WebElement> inventNames = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventName));
+        List<WebElement> inventDescs = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventDesc));
+        List<WebElement> inventPrices = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventPrice));
+        List<WebElement> inventImg = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventImg));
+
+        Log.info("inventItems length: " + inventItems.size());
+        Log.info("inventName length: " + inventNames.size());
+        Log.info("inventDescs length: " + inventDescs.size());
+        Log.info("inventPrices length: " + inventPrices.size());
+        Log.info("inventImg length: " + inventImg.size());
+        return inventImg.size() == inventItems.size() && inventNames.size() == inventItems.size() && inventDescs.size() == inventItems.size() && inventPrices.size() == inventItems.size();
+    }
+
+    public String clickProductName(int index) {
+        List<WebElement> productsName = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventName));
+        String productName = productsName.get(index).getText();
+        productsName.get(index).click();
+        return productName;
+    }
+
+    public String getProductNameDetailPage() {
+        wait.until(ExpectedConditions.urlContains("inventory-item.html?id="));
+        WebElement productsName = wait.until(ExpectedConditions.visibilityOfElementLocated(this.inventName));
+        return productsName.getText();
+    }
+
+    public String getDetailPageUrl() {
+        wait.until(ExpectedConditions.urlContains("inventory-item.html?id="));
+        return this.driver.getCurrentUrl();
+    }
+
+    public String addToCart(int index) {
+        List<WebElement> productNames = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventName));
+        String productName = productNames.get(index).getText();
+        List<WebElement> addToCartBtns = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.addToCartBtn));
+        addToCartBtns.get(index).click();
+        return productName;
+    }
+
+    public void removeFromCart(int index) {
+        List<WebElement> removeFromCartBtns = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.removeButton));
+        removeFromCartBtns.get(index).click();
+    }
+
+    public String getCartBadge() {
+        return wait.until(ExpectedConditions.visibilityOfElementLocated(this.cartBadge)).getText();
+    }
+
 }
