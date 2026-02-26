@@ -28,6 +28,7 @@ public class ProductsPage {
     private final By cartBadge = By.cssSelector("span[data-test='shopping-cart-badge']");
     private final By addToCartBtn = By.cssSelector("button[data-test*='add-to-cart']");
     private final By removeButton = By.cssSelector("button[data-test*='remove-']");
+    private final By cartIcon = By.cssSelector("a[data-test='shopping-cart-link']");
 
     public String getPageTitle() {
         return wait.until(ExpectedConditions.visibilityOfElementLocated(this.webTitle)).getText();
@@ -90,6 +91,10 @@ public class ProductsPage {
 
     public String getCartBadge() {
         return wait.until(ExpectedConditions.visibilityOfElementLocated(this.cartBadge)).getText();
+    }
+
+    public void clickCart() {
+        wait.until(ExpectedConditions.elementToBeClickable(this.cartIcon)).click();
     }
 
 }

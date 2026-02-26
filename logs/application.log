@@ -1,642 +1,107 @@
-2026-02-24 11:52:22 [main] INFO  Log - Open webdriver
-2026-02-24 11:52:59 [main] INFO  Log - Open browser
-2026-02-24 11:52:59 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 11:53:01 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 11:53:01 [main] INFO  Log - Clicking login button
-2026-02-24 11:53:02 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 11:53:02 [main] INFO  Log - Quitting session and close browser
-2026-02-24 11:59:45 [main] INFO  Log - Open webdriver
-2026-02-24 11:59:47 [main] INFO  Log - Open browser
-2026-02-24 11:59:47 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 11:59:50 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 11:59:51 [main] INFO  Log - Clicking login button
-2026-02-24 11:59:51 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 11:59:51 [main] INFO  Log - Quitting session and close browser
-2026-02-24 12:05:17 [main] INFO  Log - Open webdriver
-2026-02-24 12:05:19 [main] INFO  Log - Open browser
-2026-02-24 12:05:19 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 12:05:21 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 12:05:21 [main] INFO  Log - Clicking login button
-2026-02-24 12:05:21 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 12:05:21 [main] INFO  Log - Quitting session and close browser
-2026-02-24 12:06:19 [main] INFO  Log - Open webdriver
-2026-02-24 12:06:21 [main] INFO  Log - Open browser
-2026-02-24 12:06:21 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 12:06:24 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 12:06:24 [main] INFO  Log - Clicking login button
-2026-02-24 12:06:24 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 12:06:25 [main] INFO  Log - Quitting session and close browser
-2026-02-24 12:08:00 [main] INFO  Log - Open webdriver
-2026-02-24 12:08:02 [main] INFO  Log - Open browser
-2026-02-24 12:08:02 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 12:08:05 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 12:08:05 [main] INFO  Log - Clicking login button
-2026-02-24 12:08:06 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 12:08:06 [main] INFO  Log - Quitting session and close browser
-2026-02-24 12:09:19 [main] INFO  Log - Open webdriver
-2026-02-24 12:09:21 [main] INFO  Log - Open browser
-2026-02-24 12:09:21 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 12:09:24 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 12:09:24 [main] INFO  Log - Clicking login button
-2026-02-24 12:09:24 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 12:09:24 [main] INFO  Log - Quitting session and close browser
-2026-02-24 12:12:07 [main] INFO  Log - Open webdriver
-2026-02-24 12:12:09 [main] INFO  Log - Open browser
-2026-02-24 12:12:09 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 12:12:11 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 12:12:11 [main] INFO  Log - Clicking login button
-2026-02-24 12:12:12 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 12:12:12 [main] INFO  Log - Quitting session and close browser
-2026-02-24 12:13:15 [main] INFO  Log - Open webdriver
-2026-02-24 12:13:17 [main] INFO  Log - Open browser
-2026-02-24 12:13:17 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 12:13:19 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 12:13:19 [main] INFO  Log - Clicking login button
-2026-02-24 12:13:20 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 12:13:20 [main] INFO  Log - Quitting session and close browser
-2026-02-24 12:14:49 [main] INFO  Log - Open webdriver
-2026-02-24 12:14:51 [main] INFO  Log - Open browser
-2026-02-24 12:14:51 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 12:14:53 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 12:14:53 [main] INFO  Log - Clicking login button
-2026-02-24 12:14:53 [main] INFO  Log - Validate expected 'Products' match with actual Products
-2026-02-24 12:14:53 [main] INFO  Log - Quitting session and close browser
-2026-02-24 14:43:20 [main] INFO  Log - Open webdriver
-2026-02-24 14:43:26 [main] INFO  Log - Open browser
-2026-02-24 14:43:26 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 14:43:33 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 14:43:34 [main] INFO  Log - Clicking login button
-2026-02-24 14:43:34 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 14:43:34 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-24 14:43:34 [main] INFO  Log - Quitting session and close browser
-2026-02-24 14:45:54 [main] INFO  Log - Open webdriver
-2026-02-24 14:45:56 [main] INFO  Log - Open browser
-2026-02-24 14:45:56 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 14:45:58 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 14:45:59 [main] INFO  Log - Clicking login button
-2026-02-24 14:45:59 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 14:45:59 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-24 14:45:59 [main] INFO  Log - Quitting session and close browser
-2026-02-24 14:48:36 [main] INFO  Log - Open webdriver
-2026-02-24 14:48:38 [main] INFO  Log - Open browser
-2026-02-24 14:48:38 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 14:48:43 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 14:48:43 [main] INFO  Log - Clicking login button
-2026-02-24 14:48:43 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 14:48:44 [main] INFO  Log - Quitting session and close browser
-2026-02-24 14:51:08 [main] INFO  Log - Open webdriver
-2026-02-24 14:51:10 [main] INFO  Log - Open browser
-2026-02-24 14:51:10 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 14:51:12 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 14:51:13 [main] INFO  Log - Clicking login button
-2026-02-24 14:51:13 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 14:51:13 [main] ERROR Log - TEST FAILED - Expected: Product | Actual: Products
-2026-02-24 14:51:13 [main] INFO  Log - Quitting session and close browser
-2026-02-24 14:52:12 [main] INFO  Log - Open webdriver
-2026-02-24 14:52:14 [main] INFO  Log - Open browser
-2026-02-24 14:52:14 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 14:52:16 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 14:52:16 [main] INFO  Log - Clicking login button
-2026-02-24 14:52:17 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 14:52:17 [main] ERROR Log - TEST FAILED - Login with Valid Username and PasswordExpected: Product | Actual: Products
-2026-02-24 14:52:17 [main] INFO  Log - Quitting session and close browser
-2026-02-24 15:14:13 [main] INFO  Log - Open webdriver
-2026-02-24 15:14:15 [main] INFO  Log - Open browser
-2026-02-24 15:14:15 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 15:14:18 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 15:14:18 [main] INFO  Log - Clicking login button
-2026-02-24 15:14:19 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 15:14:19 [main] ERROR Log - TEST FAILED - Login with Valid Username and Password | Expected: Product | Actual: Products
-2026-02-24 15:14:19 [main] INFO  Log - Quitting session and close browser
-2026-02-24 15:14:19 [main] INFO  Log - Open webdriver
-2026-02-24 15:14:20 [main] INFO  Log - Open browser
-2026-02-24 15:14:21 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 15:14:23 [main] INFO  Log - Input credentials with invalid username
-2026-02-24 15:14:23 [main] INFO  Log - Click login button
-2026-02-24 15:14:23 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:14:23 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-24 15:14:23 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-24 15:14:23 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-24 15:14:23 [main] ERROR Log - TEST FAILED - Vakidate error message when login with invalid username | Expected: \uD83D\uDE2D: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:14:23 [main] INFO  Log - Quitting session and close browser
-2026-02-24 15:17:48 [main] INFO  Log - Open webdriver
-2026-02-24 15:17:50 [main] INFO  Log - Open browser
-2026-02-24 15:17:50 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 15:17:52 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 15:17:52 [main] INFO  Log - Clicking login button
-2026-02-24 15:17:53 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 15:17:53 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-24 15:17:53 [main] INFO  Log - Quitting session and close browser
-2026-02-24 15:17:53 [main] INFO  Log - Open webdriver
-2026-02-24 15:17:54 [main] INFO  Log - Open browser
-2026-02-24 15:17:54 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 15:17:56 [main] INFO  Log - Input credentials with invalid username
-2026-02-24 15:17:57 [main] INFO  Log - Click login button
-2026-02-24 15:17:57 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:17:57 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-24 15:17:57 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-24 15:17:57 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-24 15:17:57 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:17:57 [main] INFO  Log - Quitting session and close browser
-2026-02-24 15:26:50 [main] INFO  Log - Open webdriver
-2026-02-24 15:26:52 [main] INFO  Log - Open browser
-2026-02-24 15:26:52 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 15:26:55 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-24 15:26:55 [main] INFO  Log - Clicking login button
-2026-02-24 15:26:55 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-24 15:26:55 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-24 15:26:55 [main] INFO  Log - Quitting session and close browser
-2026-02-24 15:26:55 [main] INFO  Log - Open webdriver
-2026-02-24 15:26:57 [main] INFO  Log - Open browser
-2026-02-24 15:26:57 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 15:26:59 [main] INFO  Log - Input credentials with invalid password
-2026-02-24 15:26:59 [main] INFO  Log - Click on login button
-2026-02-24 15:26:59 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-24 15:26:59 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:26:59 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-24 15:26:59 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-24 15:26:59 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:26:59 [main] INFO  Log - Quitting session and close browser
-2026-02-24 15:26:59 [main] INFO  Log - Open webdriver
-2026-02-24 15:27:01 [main] INFO  Log - Open browser
-2026-02-24 15:27:01 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-24 15:27:03 [main] INFO  Log - Input credentials with invalid username
-2026-02-24 15:27:03 [main] INFO  Log - Click login button
-2026-02-24 15:27:04 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:27:04 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-24 15:27:04 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-24 15:27:04 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-24 15:27:04 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-24 15:27:04 [main] INFO  Log - Quitting session and close browser
-2026-02-25 10:21:55 [main] INFO  Log - Open webdriver
-2026-02-25 10:23:08 [main] INFO  Log - Open browser
-2026-02-25 10:23:08 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 10:26:08 [main] INFO  Log - Quitting session and close browser
-2026-02-25 10:34:09 [main] INFO  Log - Open webdriver
-2026-02-25 10:34:28 [main] INFO  Log - Open browser
-2026-02-25 10:34:28 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 10:34:29 [main] INFO  Log - Verify product list is displayed on Products Page
-2026-02-25 10:34:40 [main] INFO  Log - Quitting session and close browser
-2026-02-25 10:34:40 [main] INFO  Log - Open webdriver
-2026-02-25 10:34:41 [main] INFO  Log - Open browser
-2026-02-25 10:34:41 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 10:34:42 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 10:34:42 [main] INFO  Log - Clicking login button
-2026-02-25 10:34:43 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 10:34:43 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 10:34:43 [main] INFO  Log - Quitting session and close browser
-2026-02-25 10:34:43 [main] INFO  Log - Open webdriver
-2026-02-25 10:34:44 [main] INFO  Log - Open browser
-2026-02-25 10:34:44 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 10:34:47 [main] INFO  Log - Input credentials with invalid password
-2026-02-25 10:34:47 [main] INFO  Log - Click on login button
-2026-02-25 10:34:48 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-25 10:34:48 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 10:34:48 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 10:34:48 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 10:34:48 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 10:34:48 [main] INFO  Log - Quitting session and close browser
-2026-02-25 10:34:48 [main] INFO  Log - Open webdriver
-2026-02-25 10:34:49 [main] INFO  Log - Open browser
-2026-02-25 10:34:49 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 10:34:53 [main] INFO  Log - Input credentials with invalid username
-2026-02-25 10:34:54 [main] INFO  Log - Click login button
-2026-02-25 10:34:54 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 10:34:54 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-25 10:34:54 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 10:34:54 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 10:34:54 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 10:34:54 [main] INFO  Log - Quitting session and close browser
-2026-02-25 10:37:05 [main] INFO  Log - Open webdriver
-2026-02-25 10:37:07 [main] INFO  Log - Open browser
-2026-02-25 10:37:07 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 10:37:09 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 10:37:09 [main] INFO  Log - Clicking login button
-2026-02-25 10:37:09 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 10:37:09 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 10:37:09 [main] INFO  Log - Quitting session and close browser
-2026-02-25 10:37:09 [main] INFO  Log - Open webdriver
-2026-02-25 10:37:11 [main] INFO  Log - Open browser
-2026-02-25 10:37:11 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 10:37:13 [main] INFO  Log - Verify product list is displayed on Products Page
-2026-02-25 10:37:23 [main] INFO  Log - Quitting session and close browser
-2026-02-25 11:02:52 [main] INFO  Log - Open webdriver
-2026-02-25 11:02:55 [main] INFO  Log - Open browser
-2026-02-25 11:02:55 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 11:03:07 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 11:03:08 [main] INFO  Log - Clicking login button
-2026-02-25 11:03:08 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 11:03:08 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 11:03:08 [main] INFO  Log - Quitting session and close browser
-2026-02-25 11:03:08 [main] INFO  Log - Open webdriver
-2026-02-25 11:03:10 [main] INFO  Log - Open browser
-2026-02-25 11:03:10 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 11:03:11 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 11:03:22 [main] INFO  Log - Quitting session and close browser
-2026-02-25 11:04:53 [main] INFO  Log - Open webdriver
-2026-02-25 11:04:56 [main] INFO  Log - Open browser
-2026-02-25 11:04:56 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 11:04:58 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 11:04:59 [main] INFO  Log - Clicking login button
-2026-02-25 11:04:59 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 11:04:59 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 11:04:59 [main] INFO  Log - Quitting session and close browser
-2026-02-25 11:04:59 [main] INFO  Log - Open webdriver
-2026-02-25 11:05:01 [main] INFO  Log - Open browser
-2026-02-25 11:05:02 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 11:05:03 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 11:05:04 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 11:06:02 [main] INFO  Log - Open webdriver
-2026-02-25 11:06:05 [main] INFO  Log - Open browser
-2026-02-25 11:06:05 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 11:06:09 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 11:06:10 [main] INFO  Log - Clicking login button
-2026-02-25 11:06:11 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 11:06:11 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 11:06:11 [main] INFO  Log - Quitting session and close browser
-2026-02-25 11:06:11 [main] INFO  Log - Open webdriver
-2026-02-25 11:06:13 [main] INFO  Log - Open browser
-2026-02-25 11:06:13 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 11:06:14 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 11:06:15 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 11:06:15 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:04:21 [main] INFO  Log - Open webdriver
-2026-02-25 12:06:00 [main] INFO  Log - Open webdriver
-2026-02-25 12:07:05 [main] INFO  Log - Open browser
-2026-02-25 12:07:05 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:07:07 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 12:07:07 [main] INFO  Log - Clicking login button
-2026-02-25 12:07:08 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 12:07:08 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 12:07:08 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:07:08 [main] INFO  Log - Open webdriver
-2026-02-25 12:07:10 [main] INFO  Log - Open browser
-2026-02-25 12:07:10 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:07:11 [main] INFO  Log - Input credentials with invalid password
-2026-02-25 12:07:12 [main] INFO  Log - Click on login button
-2026-02-25 12:07:12 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-25 12:07:12 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:07:12 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 12:07:12 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 12:07:12 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:07:12 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:07:13 [main] INFO  Log - Open webdriver
-2026-02-25 12:07:15 [main] INFO  Log - Open browser
-2026-02-25 12:07:15 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:07:22 [main] INFO  Log - Input credentials with invalid username
-2026-02-25 12:07:22 [main] INFO  Log - Click login button
-2026-02-25 12:07:22 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:07:22 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-25 12:07:22 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 12:07:22 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 12:07:22 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:07:23 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:07:23 [main] INFO  Log - Open webdriver
-2026-02-25 12:07:25 [main] INFO  Log - Open browser
-2026-02-25 12:07:25 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:07:27 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 12:07:27 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
-2026-02-25 12:07:28 [main] ERROR Log - TEST FAILED - Verify all product name, image, description, price is displayed
-2026-02-25 12:07:28 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:07:28 [main] INFO  Log - Open webdriver
-2026-02-25 12:07:31 [main] INFO  Log - Open browser
-2026-02-25 12:07:31 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:07:34 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 12:07:35 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 12:07:35 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:16:30 [main] INFO  Log - Open webdriver
-2026-02-25 12:16:32 [main] INFO  Log - Open browser
-2026-02-25 12:16:32 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:16:36 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 12:16:36 [main] INFO  Log - Clicking login button
-2026-02-25 12:16:36 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 12:16:37 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 12:16:37 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:16:37 [main] INFO  Log - Open webdriver
-2026-02-25 12:16:38 [main] INFO  Log - Open browser
-2026-02-25 12:16:38 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:16:40 [main] INFO  Log - Input credentials with invalid password
-2026-02-25 12:16:40 [main] INFO  Log - Click on login button
-2026-02-25 12:16:40 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-25 12:16:40 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:16:40 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 12:16:40 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 12:16:40 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:16:40 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:16:40 [main] INFO  Log - Open webdriver
-2026-02-25 12:16:42 [main] INFO  Log - Open browser
-2026-02-25 12:16:42 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:16:43 [main] INFO  Log - Input credentials with invalid username
-2026-02-25 12:16:43 [main] INFO  Log - Click login button
-2026-02-25 12:16:44 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:16:44 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-25 12:16:44 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 12:16:44 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 12:16:44 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:16:44 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:16:44 [main] INFO  Log - Open webdriver
-2026-02-25 12:16:46 [main] INFO  Log - Open browser
-2026-02-25 12:16:46 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:16:47 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 12:16:47 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
-2026-02-25 12:16:48 [main] INFO  Log - inventItems length: 6
-2026-02-25 12:16:48 [main] INFO  Log - inventName length: 6
-2026-02-25 12:16:48 [main] INFO  Log - inventDescs length: 6
-2026-02-25 12:16:48 [main] INFO  Log - inventPrices length: 6
-2026-02-25 12:16:48 [main] INFO  Log - inventImg length: 12
-2026-02-25 12:16:48 [main] ERROR Log - TEST FAILED - Verify all product name, image, description, price is displayed
-2026-02-25 12:16:48 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:16:48 [main] INFO  Log - Open webdriver
-2026-02-25 12:16:50 [main] INFO  Log - Open browser
-2026-02-25 12:16:50 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:16:51 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 12:16:52 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 12:16:52 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:19:59 [main] INFO  Log - Open webdriver
-2026-02-25 12:20:01 [main] INFO  Log - Open browser
-2026-02-25 12:20:01 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:20:02 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 12:20:03 [main] INFO  Log - Clicking login button
-2026-02-25 12:20:03 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 12:20:03 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 12:20:03 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:20:03 [main] INFO  Log - Open webdriver
-2026-02-25 12:20:05 [main] INFO  Log - Open browser
-2026-02-25 12:20:05 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:20:08 [main] INFO  Log - Input credentials with invalid password
-2026-02-25 12:20:08 [main] INFO  Log - Click on login button
-2026-02-25 12:20:08 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-25 12:20:08 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:20:08 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 12:20:08 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 12:20:08 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:20:08 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:20:09 [main] INFO  Log - Open webdriver
-2026-02-25 12:20:10 [main] INFO  Log - Open browser
-2026-02-25 12:20:10 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:20:12 [main] INFO  Log - Input credentials with invalid username
-2026-02-25 12:20:13 [main] INFO  Log - Click login button
-2026-02-25 12:20:13 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:20:13 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-25 12:20:13 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 12:20:13 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 12:20:13 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 12:20:13 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:20:13 [main] INFO  Log - Open webdriver
-2026-02-25 12:20:15 [main] INFO  Log - Open browser
-2026-02-25 12:20:15 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:20:19 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 12:20:20 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
-2026-02-25 12:20:21 [main] INFO  Log - inventItems length: 6
-2026-02-25 12:20:21 [main] INFO  Log - inventName length: 6
-2026-02-25 12:20:21 [main] INFO  Log - inventDescs length: 6
-2026-02-25 12:20:21 [main] INFO  Log - inventPrices length: 6
-2026-02-25 12:20:21 [main] INFO  Log - inventImg length: 6
-2026-02-25 12:20:21 [main] INFO  Log - Quitting session and close browser
-2026-02-25 12:20:21 [main] INFO  Log - Open webdriver
-2026-02-25 12:20:23 [main] INFO  Log - Open browser
-2026-02-25 12:20:23 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 12:20:27 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 12:20:28 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 12:20:28 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:03:52 [main] INFO  Log - Open webdriver
-2026-02-25 15:03:59 [main] INFO  Log - Open browser
-2026-02-25 15:03:59 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:04:01 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 15:04:02 [main] INFO  Log - Clicking login button
-2026-02-25 15:04:02 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 15:04:02 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 15:04:02 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:04:03 [main] INFO  Log - Open webdriver
-2026-02-25 15:04:04 [main] INFO  Log - Open browser
-2026-02-25 15:04:04 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:04:05 [main] INFO  Log - Input credentials with invalid password
-2026-02-25 15:04:05 [main] INFO  Log - Click on login button
-2026-02-25 15:04:06 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-25 15:04:06 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:04:06 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 15:04:06 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 15:04:06 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:04:06 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:04:06 [main] INFO  Log - Open webdriver
-2026-02-25 15:04:08 [main] INFO  Log - Open browser
-2026-02-25 15:04:08 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:04:09 [main] INFO  Log - Input credentials with invalid username
-2026-02-25 15:04:10 [main] INFO  Log - Click login button
-2026-02-25 15:04:10 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:04:10 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-25 15:04:10 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 15:04:10 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 15:04:10 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:04:10 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:04:10 [main] INFO  Log - Open webdriver
-2026-02-25 15:04:12 [main] INFO  Log - Open browser
-2026-02-25 15:04:12 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:04:13 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 15:04:13 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
-2026-02-25 15:04:14 [main] INFO  Log - inventItems length: 6
-2026-02-25 15:04:14 [main] INFO  Log - inventName length: 6
-2026-02-25 15:04:14 [main] INFO  Log - inventDescs length: 6
-2026-02-25 15:04:14 [main] INFO  Log - inventPrices length: 6
-2026-02-25 15:04:14 [main] INFO  Log - inventImg length: 6
-2026-02-25 15:04:14 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:04:14 [main] INFO  Log - Open webdriver
-2026-02-25 15:04:15 [main] INFO  Log - Open browser
-2026-02-25 15:04:15 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:04:16 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 15:04:17 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 15:04:17 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:04:17 [main] INFO  Log - Open webdriver
-2026-02-25 15:04:18 [main] INFO  Log - Open browser
-2026-02-25 15:04:18 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:04:19 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 15:04:20 [main] INFO  Log - PRODUCT PAGE - VERIFY USER CAN OPEN DETAIL PRODUCT PAGE
-2026-02-25 15:04:20 [main] INFO  Log - PRODUCT PAGE - Click on product name
-2026-02-25 15:04:20 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:10:47 [main] INFO  Log - Open webdriver
-2026-02-25 15:10:50 [main] INFO  Log - Open browser
-2026-02-25 15:10:50 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:10:51 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-25 15:10:51 [main] INFO  Log - Clicking login button
-2026-02-25 15:10:52 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-25 15:10:52 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-25 15:10:52 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:10:52 [main] INFO  Log - Open webdriver
-2026-02-25 15:10:53 [main] INFO  Log - Open browser
-2026-02-25 15:10:54 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:10:54 [main] INFO  Log - Input credentials with invalid password
-2026-02-25 15:10:55 [main] INFO  Log - Click on login button
-2026-02-25 15:10:55 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-25 15:10:55 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:10:55 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 15:10:55 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 15:10:55 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:10:55 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:10:55 [main] INFO  Log - Open webdriver
-2026-02-25 15:10:57 [main] INFO  Log - Open browser
-2026-02-25 15:10:57 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:10:59 [main] INFO  Log - Input credentials with invalid username
-2026-02-25 15:10:59 [main] INFO  Log - Click login button
-2026-02-25 15:10:59 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:10:59 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-25 15:10:59 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-25 15:10:59 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-25 15:10:59 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-25 15:10:59 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:10:59 [main] INFO  Log - Open webdriver
-2026-02-25 15:11:01 [main] INFO  Log - Open browser
-2026-02-25 15:11:01 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:11:02 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 15:11:03 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
-2026-02-25 15:11:03 [main] INFO  Log - inventItems length: 6
-2026-02-25 15:11:03 [main] INFO  Log - inventName length: 6
-2026-02-25 15:11:03 [main] INFO  Log - inventDescs length: 6
-2026-02-25 15:11:03 [main] INFO  Log - inventPrices length: 6
-2026-02-25 15:11:03 [main] INFO  Log - inventImg length: 6
-2026-02-25 15:11:03 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:11:03 [main] INFO  Log - Open webdriver
-2026-02-25 15:11:05 [main] INFO  Log - Open browser
-2026-02-25 15:11:05 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:11:06 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 15:11:07 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-25 15:11:07 [main] INFO  Log - Quitting session and close browser
-2026-02-25 15:11:07 [main] INFO  Log - Open webdriver
-2026-02-25 15:11:08 [main] INFO  Log - Open browser
-2026-02-25 15:11:08 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-25 15:11:10 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-25 15:11:11 [main] INFO  Log - PRODUCT PAGE - VERIFY USER CAN OPEN DETAIL PRODUCT PAGE
-2026-02-25 15:11:11 [main] INFO  Log - PRODUCT PAGE - Click on product name
-2026-02-25 15:11:11 [main] INFO  Log - Verify URL already redirected to detail page
-2026-02-25 15:11:11 [main] INFO  Log - Verify product name displayed on Detail Page match with selected product
-2026-02-25 15:11:11 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:38:27 [main] INFO  Log - Open webdriver
-2026-02-26 11:40:01 [main] INFO  Log - Open browser
-2026-02-26 11:40:01 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:40:06 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-26 11:40:06 [main] INFO  Log - Clicking login button
-2026-02-26 11:40:07 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-26 11:40:07 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-26 11:40:07 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:40:07 [main] INFO  Log - Open webdriver
-2026-02-26 11:40:09 [main] INFO  Log - Open browser
-2026-02-26 11:40:09 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:40:13 [main] INFO  Log - Input credentials with invalid password
-2026-02-26 11:40:13 [main] INFO  Log - Click on login button
-2026-02-26 11:40:13 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-26 11:40:13 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:40:13 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-26 11:40:13 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-26 11:40:13 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:40:13 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:40:14 [main] INFO  Log - Open webdriver
-2026-02-26 11:40:15 [main] INFO  Log - Open browser
-2026-02-26 11:40:16 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:40:17 [main] INFO  Log - Input credentials with invalid username
-2026-02-26 11:40:17 [main] INFO  Log - Click login button
-2026-02-26 11:40:18 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:40:18 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-26 11:40:18 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-26 11:40:18 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-26 11:40:18 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:40:18 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:40:18 [main] INFO  Log - Open webdriver
-2026-02-26 11:40:20 [main] INFO  Log - Open browser
-2026-02-26 11:40:20 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:40:24 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:40:25 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
-2026-02-26 11:40:25 [main] INFO  Log - inventItems length: 6
-2026-02-26 11:40:25 [main] INFO  Log - inventName length: 6
-2026-02-26 11:40:25 [main] INFO  Log - inventDescs length: 6
-2026-02-26 11:40:25 [main] INFO  Log - inventPrices length: 6
-2026-02-26 11:40:25 [main] INFO  Log - inventImg length: 6
-2026-02-26 11:40:25 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:40:25 [main] INFO  Log - Open webdriver
-2026-02-26 11:40:27 [main] INFO  Log - Open browser
-2026-02-26 11:40:27 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:40:34 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:40:34 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-26 11:40:35 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:40:35 [main] INFO  Log - Open webdriver
-2026-02-26 11:40:36 [main] INFO  Log - Open browser
-2026-02-26 11:40:36 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:40:41 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:40:42 [main] INFO  Log - PRODUCTS PAGE - Adding two items into cart
-2026-02-26 11:40:42 [main] INFO  Log - PRODUCTS PAGE - Getting cart badge: 2
-2026-02-26 11:40:42 [main] INFO  Log - PRODUCTS PAGE - Remove one item from cart
-2026-02-26 11:40:42 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:40:43 [main] INFO  Log - Open webdriver
-2026-02-26 11:40:44 [main] INFO  Log - Open browser
-2026-02-26 11:40:44 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:40:48 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:40:49 [main] INFO  Log - PRODUCTS PAGE - VERIFY USER CAN OPEN DETAIL PRODUCT PAGE
-2026-02-26 11:40:49 [main] INFO  Log - PRODUCTS PAGE - Click on product name
-2026-02-26 11:40:49 [main] INFO  Log - PRODUCTS PAGE - Verify URL already redirected to detail page
-2026-02-26 11:40:49 [main] INFO  Log - PRODUCTS PAGE - Verify product name displayed on Detail Page match with selected product
-2026-02-26 11:40:49 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:43:52 [main] INFO  Log - Open webdriver
-2026-02-26 11:43:54 [main] INFO  Log - Open browser
-2026-02-26 11:43:55 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:44:02 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
-2026-02-26 11:44:02 [main] INFO  Log - Clicking login button
-2026-02-26 11:44:02 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
-2026-02-26 11:44:02 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
-2026-02-26 11:44:02 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:44:03 [main] INFO  Log - Open webdriver
-2026-02-26 11:44:04 [main] INFO  Log - Open browser
-2026-02-26 11:44:04 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:44:09 [main] INFO  Log - Input credentials with invalid password
-2026-02-26 11:44:09 [main] INFO  Log - Click on login button
-2026-02-26 11:44:10 [main] INFO  Log - Get page url: https://www.saucedemo.com/
-2026-02-26 11:44:10 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:44:10 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-26 11:44:10 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-26 11:44:10 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:44:10 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:44:10 [main] INFO  Log - Open webdriver
-2026-02-26 11:44:12 [main] INFO  Log - Open browser
-2026-02-26 11:44:13 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:44:32 [main] INFO  Log - Input credentials with invalid username
-2026-02-26 11:44:32 [main] INFO  Log - Click login button
-2026-02-26 11:44:32 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:44:32 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
-2026-02-26 11:44:32 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
-2026-02-26 11:44:32 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
-2026-02-26 11:44:32 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
-2026-02-26 11:44:32 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:44:32 [main] INFO  Log - Open webdriver
-2026-02-26 11:44:34 [main] INFO  Log - Open browser
-2026-02-26 11:44:34 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:44:43 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:44:44 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
-2026-02-26 11:44:50 [main] INFO  Log - inventItems length: 6
-2026-02-26 11:44:50 [main] INFO  Log - inventName length: 6
-2026-02-26 11:44:50 [main] INFO  Log - inventDescs length: 6
-2026-02-26 11:44:50 [main] INFO  Log - inventPrices length: 6
-2026-02-26 11:44:50 [main] INFO  Log - inventImg length: 6
-2026-02-26 11:44:50 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:44:50 [main] INFO  Log - Open webdriver
-2026-02-26 11:44:52 [main] INFO  Log - Open browser
-2026-02-26 11:44:52 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:44:53 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:44:54 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
-2026-02-26 11:44:54 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:44:54 [main] INFO  Log - Open webdriver
-2026-02-26 11:44:55 [main] INFO  Log - Open browser
-2026-02-26 11:44:55 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:44:57 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:44:58 [main] INFO  Log - PRODUCTS PAGE - Adding two items into cart
-2026-02-26 11:44:58 [main] INFO  Log - PRODUCTS PAGE - Getting cart badge: 2
-2026-02-26 11:44:58 [main] INFO  Log - PRODUCTS PAGE - Remove one item from cart
-2026-02-26 11:44:58 [main] INFO  Log - PRODUCTS PAGE - Getting cart badge: 1
-2026-02-26 11:44:58 [main] INFO  Log - PRODUCTS PAGE - Verify cart badge is correct after adding two items into cart
-2026-02-26 11:44:58 [main] INFO  Log - PRODUCTS PAGE - Verify cart badge is correct after removing one item from cart
-2026-02-26 11:44:58 [main] INFO  Log - Quitting session and close browser
-2026-02-26 11:44:59 [main] INFO  Log - Open webdriver
-2026-02-26 11:45:00 [main] INFO  Log - Open browser
-2026-02-26 11:45:00 [main] INFO  Log - Navigate to 'https://saucedemo.com'
-2026-02-26 11:45:05 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
-2026-02-26 11:45:05 [main] INFO  Log - PRODUCTS PAGE - VERIFY USER CAN OPEN DETAIL PRODUCT PAGE
-2026-02-26 11:45:05 [main] INFO  Log - PRODUCTS PAGE - Click on product name
-2026-02-26 11:45:06 [main] INFO  Log - PRODUCTS PAGE - Verify URL already redirected to detail page
-2026-02-26 11:45:06 [main] INFO  Log - PRODUCTS PAGE - Verify product name displayed on Detail Page match with selected product
-2026-02-26 11:45:06 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:53:28 [main] INFO  Log - Open webdriver
+2026-02-26 14:53:30 [main] INFO  Log - Open browser
+2026-02-26 14:53:30 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:53:35 [main] INFO  Log - Enter valid username 'standard_user' and valid password 'secret_sauce'
+2026-02-26 14:53:35 [main] INFO  Log - Clicking login button
+2026-02-26 14:53:36 [main] INFO  Log - Validate user redirected to product page, expected 'Products' title match with actual Products
+2026-02-26 14:53:36 [main] INFO  Log - TEST PASSED - Login with Valid Username and Password | Expected: Products | Actual: Products
+2026-02-26 14:53:36 [main] INFO  Log - Validate user redirected to URL: https://www.saucedemo.com/inventory.html
+2026-02-26 14:53:36 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:53:36 [main] INFO  Log - Open webdriver
+2026-02-26 14:53:38 [main] INFO  Log - Open browser
+2026-02-26 14:53:38 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:53:40 [main] INFO  Log - Input credentials with invalid password
+2026-02-26 14:53:40 [main] INFO  Log - Click on login button
+2026-02-26 14:53:40 [main] INFO  Log - Get page url: https://www.saucedemo.com/
+2026-02-26 14:53:40 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
+2026-02-26 14:53:40 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
+2026-02-26 14:53:40 [main] INFO  Log - TEST PASSED - Validate URL still on login page: https://www.saucedemo.com/ | Expected: https://www.saucedemo.com/ | Actual: https://www.saucedemo.com/
+2026-02-26 14:53:40 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
+2026-02-26 14:53:40 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid password | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
+2026-02-26 14:53:40 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:53:40 [main] INFO  Log - Open webdriver
+2026-02-26 14:53:42 [main] INFO  Log - Open browser
+2026-02-26 14:53:42 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:53:44 [main] INFO  Log - Input credentials with invalid username
+2026-02-26 14:53:44 [main] INFO  Log - Click login button
+2026-02-26 14:53:44 [main] INFO  Log - Get error message: Epic sadface: Username and password do not match any user in this service
+2026-02-26 14:53:44 [main] INFO  Log - Get page URL: https://www.saucedemo.com/
+2026-02-26 14:53:44 [main] INFO  Log - Validate user failed to login and still on login page with url: https://www.saucedemo.com/
+2026-02-26 14:53:44 [main] INFO  Log - TEST PASSED - Validate URL still on login page: https://www.saucedemo.com/ | Expected: https://www.saucedemo.com/ | Actual: https://www.saucedemo.com/
+2026-02-26 14:53:44 [main] INFO  Log - Validate user failed to login and error message is displayed correctly
+2026-02-26 14:53:44 [main] ERROR Log - TEST FAILED - Validate error message when login with invalid username | Expected: 😭: Username and password do not match any user in this service | Actual: Epic sadface: Username and password do not match any user in this service
+2026-02-26 14:53:44 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:53:45 [main] INFO  Log - Open webdriver
+2026-02-26 14:53:47 [main] INFO  Log - Open browser
+2026-02-26 14:53:47 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:53:49 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
+2026-02-26 14:53:50 [main] INFO  Log - PRODUCTS PAGE - Verify all product name, image, description, price is displayed
+2026-02-26 14:53:51 [main] INFO  Log - inventItems length: 6
+2026-02-26 14:53:51 [main] INFO  Log - inventName length: 6
+2026-02-26 14:53:51 [main] INFO  Log - inventDescs length: 6
+2026-02-26 14:53:51 [main] INFO  Log - inventPrices length: 6
+2026-02-26 14:53:51 [main] INFO  Log - inventImg length: 6
+2026-02-26 14:53:51 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:53:51 [main] INFO  Log - Open webdriver
+2026-02-26 14:53:52 [main] INFO  Log - Open browser
+2026-02-26 14:53:52 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:53:54 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
+2026-02-26 14:53:55 [main] INFO  Log - PRODUCTS PAGE - Verify product list is displayed on Products Page
+2026-02-26 14:53:55 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:53:55 [main] INFO  Log - Open webdriver
+2026-02-26 14:53:56 [main] INFO  Log - Open browser
+2026-02-26 14:53:56 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:53:58 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
+2026-02-26 14:53:59 [main] INFO  Log - PRODUCTS PAGE - Adding two items into cart
+2026-02-26 14:53:59 [main] INFO  Log - PRODUCTS PAGE - Getting cart badge: 2
+2026-02-26 14:53:59 [main] INFO  Log - PRODUCTS PAGE - Remove one item from cart
+2026-02-26 14:53:59 [main] INFO  Log - PRODUCTS PAGE - Getting cart badge: 1
+2026-02-26 14:53:59 [main] INFO  Log - PRODUCTS PAGE - Verify cart badge is correct after adding two items into cart
+2026-02-26 14:53:59 [main] INFO  Log - TEST PASSED - Verify cart badge is correct after adding two items | Expected: 2 | Actual: 2
+2026-02-26 14:53:59 [main] INFO  Log - PRODUCTS PAGE - Verify cart badge is correct after removing one item from cart
+2026-02-26 14:53:59 [main] INFO  Log - TEST PASSED - Verify cart badge is correct after removing one item | Expected: 1 | Actual: 1
+2026-02-26 14:53:59 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:53:59 [main] INFO  Log - Open webdriver
+2026-02-26 14:54:01 [main] INFO  Log - Open browser
+2026-02-26 14:54:01 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:54:05 [main] INFO  Log - PRODUCTS PAGE - Input credentials on login page
+2026-02-26 14:54:05 [main] INFO  Log - PRODUCTS PAGE - VERIFY USER CAN OPEN DETAIL PRODUCT PAGE
+2026-02-26 14:54:05 [main] INFO  Log - PRODUCTS PAGE - Click on product name
+2026-02-26 14:54:06 [main] INFO  Log - PRODUCTS PAGE - Verify URL already redirected to detail page
+2026-02-26 14:54:06 [main] INFO  Log - PRODUCTS PAGE - Verify product name displayed on Detail Page match with selected product
+2026-02-26 14:54:06 [main] INFO  Log - TEST PASSED - Verify product name displayed on Detail Page match with selected product | Expected: Sauce Labs Bike Light | Actual: Sauce Labs Bike Light
+2026-02-26 14:54:06 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:54:06 [main] INFO  Log - Open webdriver
+2026-02-26 14:54:07 [main] INFO  Log - Open browser
+2026-02-26 14:54:07 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:54:15 [main] INFO  Log - CART PAGE - Input credentials on login page
+2026-02-26 14:54:15 [main] INFO  Log - CART PAGE - VERIFY DISPLAYED ITEMS MATCH WITH SELECTED ITEMS BY USER
+2026-02-26 14:54:16 [main] INFO  Log - CART PAGE - Add first item to cart: Sauce Labs Backpack
+2026-02-26 14:54:16 [main] INFO  Log - CART PAGE - Add second item to cart: Sauce Labs Bike Light
+2026-02-26 14:54:16 [main] INFO  Log - CART PAGE - Get first displayed item: Sauce Labs Backpack
+2026-02-26 14:54:16 [main] INFO  Log - CART PAGE - Get second displayed item: Sauce Labs Bike Light
+2026-02-26 14:54:16 [main] INFO  Log - TEST PASSED - Verify first displayed item match with first user selected item | Expected: Sauce Labs Backpack | Actual: Sauce Labs Backpack
+2026-02-26 14:54:16 [main] INFO  Log - TEST PASSED - Verify second displayed item match with second user selected item | Expected: Sauce Labs Bike Light | Actual: Sauce Labs Bike Light
+2026-02-26 14:54:16 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:54:16 [main] INFO  Log - Open webdriver
+2026-02-26 14:54:18 [main] INFO  Log - Open browser
+2026-02-26 14:54:18 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:54:20 [main] INFO  Log - CART PAGE - Input credentials on login page
+2026-02-26 14:54:21 [main] INFO  Log - CART PAGE - VERIFY USER CAN REMOVE ITEM FROM CART PAGE
+2026-02-26 14:54:21 [main] INFO  Log - CART PAGE - Add first item to cart
+2026-02-26 14:54:21 [main] INFO  Log - CART PAGE - Add second item to cart
+2026-02-26 14:54:22 [main] INFO  Log - CART PAGE - Click cart icon
+2026-02-26 14:54:22 [main] INFO  Log - CART PAGE - Remove second item from cart
+2026-02-26 14:54:22 [main] INFO  Log - CART PAGE - Remove first item from cart
+2026-02-26 14:54:22 [main] INFO  Log - Quitting session and close browser
+2026-02-26 14:54:22 [main] INFO  Log - Open webdriver
+2026-02-26 14:54:23 [main] INFO  Log - Open browser
+2026-02-26 14:54:23 [main] INFO  Log - Navigate to 'https://saucedemo.com'
+2026-02-26 14:54:25 [main] INFO  Log - CART PAGE - Input credentials on login page
+2026-02-26 14:54:26 [main] INFO  Log - CART PAGE - VERIFY USER CAN'T CONTINUE TO CHECKOUT PAGE WITHOUT SELECT ANY PRODUCTS
+2026-02-26 14:54:26 [main] INFO  Log - CART PAGE - Click cart icon on products page
+2026-02-26 14:54:26 [main] INFO  Log - CART PAGE - Click Checkout button on cart page
+2026-02-26 14:54:26 [main] INFO  Log - CART PAGE - Get page title: Checkout: Your Information
+2026-02-26 14:54:26 [main] INFO  Log - CART PAGE - Get current URL: https://www.saucedemo.com/checkout-step-one.html
+2026-02-26 14:54:26 [main] ERROR Log - TEST FAILED - Verify current page title is still on 'Your Cart' | Expected: Your Cart | Actual: Checkout: Your Information
+2026-02-26 14:54:26 [main] INFO  Log - Quitting session and close browser
