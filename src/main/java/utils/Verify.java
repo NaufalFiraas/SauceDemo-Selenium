@@ -26,6 +26,7 @@ public class Verify {
             ExtentTest extentTest = ExtentTestListener.getTest();
             if (extentTest != null) {
                 ExtentTestListener.getTest().pass(message + "<br>Expected: " + expected + "<br>Actual: " + actual);
+                Log.info("TEST PASSED - " + message + " | Expected: " + expected + " | Actual: " + actual);
             }
         } else {
             ExtentTest extentTest = ExtentTestListener.getTest();
