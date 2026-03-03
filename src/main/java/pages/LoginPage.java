@@ -22,19 +22,19 @@ public class LoginPage {
     private final By errorMessage = By.cssSelector("h3[data-test='error']");
 
     public void enterUsername(String username) {
-        wait.until(ExpectedConditions.visibilityOfElementLocated(this.username)).sendKeys(username);
+        this.wait.until(ExpectedConditions.visibilityOfElementLocated(this.username)).sendKeys(username);
     }
 
     public void enterPassword(String password) {
-        wait.until(ExpectedConditions.visibilityOfElementLocated(this.password)).sendKeys(password);
+        this.wait.until(ExpectedConditions.visibilityOfElementLocated(this.password)).sendKeys(password);
     }
 
     public void clickLoginBtn() {
-        wait.until(ExpectedConditions.elementToBeClickable(this.loginBtn)).click();
+        this.wait.until(ExpectedConditions.elementToBeClickable(this.loginBtn)).click();
     }
 
     public String getErrorMessage() {
-        return wait.until(ExpectedConditions.visibilityOfElementLocated(this.errorMessage)).getText();
+        return this.wait.until(ExpectedConditions.visibilityOfElementLocated(this.errorMessage)).getText();
     }
 
     public String getPageUrl() {

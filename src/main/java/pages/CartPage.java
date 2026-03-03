@@ -29,26 +29,26 @@ public class CartPage {
     }
 
     public String getPageTitle() {
-        return wait.until(ExpectedConditions.visibilityOfElementLocated(this.webTitle)).getText();
+        return this.wait.until(ExpectedConditions.visibilityOfElementLocated(this.webTitle)).getText();
     }
 
     public void clickCheckoutBtn() {
-        wait.until(ExpectedConditions.elementToBeClickable(this.checkoutBtn)).click();
+        this.wait.until(ExpectedConditions.elementToBeClickable(this.checkoutBtn)).click();
     }
 
     public String getInventName(int index) {
-        List<WebElement> inventNames = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventName));
+        List<WebElement> inventNames = this.wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventName));
         return inventNames.get(index).getText();
     }
 
     public void clickRemoveBtn(int index) {
-        List<WebElement> removeBtns = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.removeBtn));
-        WebElement removeBtn = wait.until(ExpectedConditions.elementToBeClickable(removeBtns.get(index)));
+        List<WebElement> removeBtns = this.wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.removeBtn));
+        WebElement removeBtn = this.wait.until(ExpectedConditions.elementToBeClickable(removeBtns.get(index)));
         removeBtn.click();
     }
 
     public boolean isInventListEmpty() {
-        List<WebElement> inventList = wait.until(ExpectedConditions.numberOfElementsToBe(this.inventItem, 0));
+        List<WebElement> inventList = this.wait.until(ExpectedConditions.numberOfElementsToBe(this.inventItem, 0));
         return inventList.isEmpty();
     }
 }
