@@ -118,15 +118,25 @@ public class CheckoutOverviewTest extends BaseTest {
     public void removeAllItemAndVerifyUserCannotCheckout() {
         CheckoutOverviewPage cop = new CheckoutOverviewPage(this.driver);
 
+        Log.info("CHECKOUT OVERVIEW PAGE - REMOVE ALL ITEM AND VERIFY USER CANNOT CHECKOUT");
+        Log.info("CHECKOUT OVERVIEW PAGE - Click first product name");
         cop.clickProductName(1);
+        Log.info("CHECKOUT OVERVIEW PAGE - Click remove button");
         cop.clickRemove();
+        Log.info("CHECKOUT OVERVIEW PAGE - Back to checkout overview page");
         this.driver.navigate().back();
+        Log.info("CHECKOUT OVERVIEW PAGE - Click second product name");
         cop.clickProductName(0);
+        Log.info("CHECKOUT OVERVIEW PAGE - Click remove button");
         cop.clickRemove();
+        Log.info("CHECKOUT OVERVIEW PAGE - Back to checkout overview page");
         this.driver.navigate().back();
+        Log.info("CHECKOUT OVERVIEW PAGE - Click finish button");
         cop.clickFinishBtn();
         String webTitle = cop.getWebTitle();
+        Log.info("CHECKOUT OVERVIEW PAGE - Get current web title: " + webTitle);
         String currentUrl = cop.getCurrentUrl();
+        Log.info("CHECKOUT OVERVIEW PAGE - Get current web URL: " + currentUrl);
 
         Verify.verifyEquals("Checkout: Overview", webTitle, "Verify web title is still on checkout overview page");
         Verify.verifyContains("checkout-step-two", currentUrl, "Verify URL is still on checkout overview page");

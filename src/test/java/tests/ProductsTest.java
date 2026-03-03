@@ -13,6 +13,7 @@ public class ProductsTest extends BaseTest {
     @BeforeMethod(alwaysRun = true)
     private void preCondition() {
         LoginPage loginPage = new LoginPage(this.driver);
+        Log.info("PRODUCTS PAGE - PRE CONDITIONS");
         Log.info("PRODUCTS PAGE - Input credentials on login page");
         loginPage.enterUsername("standard_user");
         loginPage.enterPassword("secret_sauce");
@@ -23,7 +24,7 @@ public class ProductsTest extends BaseTest {
     public void verifyProductListDisplayed() {
         ProductsPage productsPage = new ProductsPage(this.driver);
 
-        Log.info("PRODUCTS PAGE - Verify product list is displayed on Products Page");
+        Log.info("PRODUCTS PAGE - VERIFY PRODUCT LIST IS DISPLAYED ON PRODUCTS PAGE");
         Verify.verifyTrue(productsPage.isInventoryListDisplayed(), "Verify product list is displayed");
     }
 
@@ -32,7 +33,7 @@ public class ProductsTest extends BaseTest {
     public void verifyAllProductsComponentDisplayed() {
         ProductsPage productsPage = new ProductsPage(this.driver);
 
-        Log.info("PRODUCTS PAGE - Verify all product name, image, description, price is displayed");
+        Log.info("PRODUCTS PAGE - VERIFY ALL PRODUCT NAME, IMAGE, DESCRIPTION, PRICE IS DISPLAYED");
         Verify.verifyTrue(productsPage.isNameDescPriceDisplayed(), "Verify all product name, image, description, price is displayed");
     }
 

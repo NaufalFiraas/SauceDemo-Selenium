@@ -15,6 +15,7 @@ public class CartTest extends BaseTest {
     private void preCondition() {
         LoginPage loginPage = new LoginPage(this.driver);
 
+        Log.info("CART PAGE - PRE CONDITIONS");
         Log.info("CART PAGE - Input credentials on login page");
         loginPage.enterUsername("standard_user");
         loginPage.enterPassword("secret_sauce");

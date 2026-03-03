@@ -14,6 +14,7 @@ public class CheckoutInfoTest extends BaseTest {
         ProductsPage productsPage = new ProductsPage(this.driver);
         CartPage cartPage = new CartPage(this.driver);
 
+        Log.info("CHECKOUT INFO - PRE CONDITIONS");
         Log.info("CHECKOUT INFO - Enter credentials for login");
         loginPage.enterUsername("standard_user");
         loginPage.enterPassword("secret_sauce");
