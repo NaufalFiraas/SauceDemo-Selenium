@@ -46,9 +46,9 @@ public class CartTest extends BaseTest {
         CartPage cartPage = new CartPage(this.driver);
 
         Log.info("CART PAGE - VERIFY DISPLAYED ITEMS MATCH WITH SELECTED ITEMS BY USER");
-        String firstSelectedItem = productsPage.addToCart(0);
+        String firstSelectedItem = productsPage.addToCart(0).get("name");
         Log.info("CART PAGE - Add first item to cart: " + firstSelectedItem);
-        String secondSelectedItem = productsPage.addToCart(1);
+        String secondSelectedItem = productsPage.addToCart(1).get("name");
         Log.info("CART PAGE - Add second item to cart: " + secondSelectedItem);
 
         String firstDisplayedItem = cartPage.getInventName(0);
