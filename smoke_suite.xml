@@ -4,7 +4,7 @@
     <test name="SauceDemo Test Execution">
         <groups>
             <run>
-                <include name="smoke"/>
+                <include name="debug"/>
             </run>
         </groups>
         <classes>
@@ -12,6 +12,7 @@
             <class name="tests.ProductsTest"/>
             <class name="tests.CartTest"/>
             <class name="tests.CheckoutInfoTest"/>
+            <class name="tests.CheckoutOverviewTest"/>
         </classes>
     </test>
 </suite>

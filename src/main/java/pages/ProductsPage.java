@@ -8,6 +8,7 @@ import org.openqa.selenium.support.ui.WebDriverWait;
 import utils.Log;
 
 import java.time.Duration;
+import java.util.HashMap;
 import java.util.List;
 
 public class ProductsPage {
@@ -76,12 +77,17 @@ public class ProductsPage {
         return this.driver.getCurrentUrl();
     }
 
-    public String addToCart(int index) {
-        List<WebElement> productNames = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventName));
+    public HashMap<String, String> addToCart(int index) {
+        List<WebElement> productNames = this.wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventName));
         String productName = productNames.get(index).getText();
-        List<WebElement> addToCartBtns = wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.addToCartBtn));
-        addToCartBtns.get(index).click();
-        return productName;
+        List<WebElement> productPrices = this.wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.inventPrice));
+        String productPrice = productPrices.get(index).getText().replace("$", "");
+        HashMap<String, String> namePrice = new HashMap<>();
+        namePrice.put("name", productName);
+        namePrice.put("price", productPrice);
+        List<WebElement> addToCartBtns = this.wait.until(ExpectedConditions.visibilityOfAllElementsLocatedBy(this.addToCartBtn));
+        addToCartBtns.get(0).click();
+        return namePrice;
     }
 
     public void removeFromCart(int index) {
@@ -96,5 +102,4 @@ public class ProductsPage {
     public void clickCart() {
         wait.until(ExpectedConditions.elementToBeClickable(this.cartIcon)).click();
     }
-
 }
