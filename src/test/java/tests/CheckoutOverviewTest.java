@@ -55,7 +55,7 @@ public class CheckoutOverviewTest extends BaseTest {
         checkoutInfoPage.clickContinueBtn();
     }
 
-    @Test(groups = {"smoke", "regression", "debug"})
+    @Test(groups = {"smoke", "regression"})
     public void verifyItemNames() {
         CheckoutOverviewPage cop = new CheckoutOverviewPage(this.driver);
 
