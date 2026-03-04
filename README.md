@@ -73,6 +73,16 @@ Key Components:
 
 ---
 
+## 🔄 CI Integration
+
+This project supports execution via Jenkins pipeline for continuous integration.
+- Build steps:
+  - Pull from repository
+  - Run mvn clean test
+  - Archive test reports
+
+---
+
 ## 🎯 Automation Scope
 
  This project demonstrates:
