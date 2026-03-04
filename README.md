@@ -87,5 +87,5 @@ Key Components:
 
 ## 👨‍💻 Author
 #### Naufal Firaas
-#### QA Engineer | Automation Enthusiast
-#### Open to remote & freelance opportunities
+##### QA Engineer | Automation Enthusiast
+##### Open to remote & freelance opportunities
