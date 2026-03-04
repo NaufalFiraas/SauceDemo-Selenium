@@ -19,7 +19,8 @@ This project automates end-to-end test scenarios for SauceDemo web application i
 
 The framework is designed with scalability and maintainability in mind.
 
-#
+---
+
 ## 🛠 Tech Stack
 
 - Java
@@ -30,7 +31,7 @@ The framework is designed with scalability and maintainability in mind.
 - Page Object Model (POM)
 - Jenkins (CI ready)
 
-
+---
 
 ## 🏗 Framework Design
 
@@ -50,6 +51,8 @@ Key Components:
 - **Listener** → Capture screenshot on failure & generate report
 - **ExtentReportManager** → Reporting configuration
 
+---
+
 ## ▶ How to Run the Tests
 
 ### Run via Maven:
@@ -60,7 +63,7 @@ Key Components:
 ### After execution, open the report on:
 #### /reports/ExtentReport.html
 
-
+---
 
 ## 📊 Reporting
 * HTML report using Extent Reports
@@ -68,7 +71,7 @@ Key Components:
 * Execution timestamp and detailed step logs
 <img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/420f7e96-602b-43a2-b005-318ebf3a8989" />
 
-
+---
 
 ## 🎯 Automation Scope
 
@@ -80,7 +83,7 @@ Key Components:
 - Reusable test architecture
 - Failure handling & evidence collection
 
-
+---
 
 ## 👨‍💻 Author
 #### Naufal Firaas
