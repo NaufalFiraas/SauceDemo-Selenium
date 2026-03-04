@@ -33,12 +33,12 @@ The framework is designed with scalability and maintainability in mind.
 🏗 Framework Design
 
 The framework follows Page Object Model structure:
-src
-├── base
-├── pages
-├── tests
-├── utils
-└── listeners
+src:
+  - base
+  - pages
+  - tests
+  - utils
+  - listeners
 
 Key Components:
 
@@ -53,9 +53,9 @@ Key Components:
 ## ▶ How to Run the Tests
 
 ### Run via Maven:
-#### mvn clean
-#### mvn test -Dsurefire.suiteXmlFiles=smoke_suite.xml (only run test case by group 'smoke')
-#### mvn test -Dsurefire.suiteXmlFiles=regression_suite.xml (only run test case by group 'regression')
+* mvn clean
+* mvn test -Dsurefire.suiteXmlFiles=smoke_suite.xml (only run test case by group 'smoke')
+* mvn test -Dsurefire.suiteXmlFiles=regression_suite.xml (only run test case by group 'regression')
 
 ### After execution, open the report on:
 #### /reports/ExtentReport.html
@@ -69,7 +69,8 @@ Key Components:
 
 
 🎯 Automation Scope
-This project demonstrates:
+
+ This project demonstrates:
 - Functional UI automation
 - Negative & positive test scenarios
 - Assertion validation
@@ -79,6 +80,6 @@ This project demonstrates:
 
 
 👨‍💻 Author
-# Naufal Firaas
-# QA Engineer | Automation Enthusiast
-# Open to remote & freelance opportunities
+#### Naufal Firaas
+#### QA Engineer | Automation Enthusiast
+#### Open to remote & freelance opportunities
