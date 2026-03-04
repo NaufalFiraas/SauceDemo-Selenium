@@ -4,7 +4,7 @@ Automation testing project for https://www.saucedemo.com/
 Built using Selenium, Java, TestNG with Page Object Model design pattern.
 
 🚀 Project Overview
-This project automates end-to-end test scenarios for SauceDemo web application including:
+### This project automates end-to-end test scenarios for SauceDemo web application including:
 
 - Login (valid & invalid scenarios)
 - Product listing validation
