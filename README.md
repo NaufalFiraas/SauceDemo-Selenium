@@ -19,8 +19,7 @@ This project automates end-to-end test scenarios for SauceDemo web application i
 
 The framework is designed with scalability and maintainability in mind.
 
-
-
+#
 ## 🛠 Tech Stack
 
 - Java
