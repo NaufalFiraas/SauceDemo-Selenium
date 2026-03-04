@@ -3,8 +3,8 @@
 Automation testing project for https://www.saucedemo.com/  
 Built using Selenium, Java, TestNG with Page Object Model design pattern.
 
-🚀 Project Overview
-### This project automates end-to-end test scenarios for SauceDemo web application including:
+## 🚀 Project Overview
+This project automates end-to-end test scenarios for SauceDemo web application including:
 
 - Login (valid & invalid scenarios)
 - Product listing validation
@@ -19,7 +19,7 @@ Built using Selenium, Java, TestNG with Page Object Model design pattern.
 The framework is designed with scalability and maintainability in mind.
 
 
-🛠 Tech Stack
+## 🛠 Tech Stack
 
 - Java
 - Selenium WebDriver
@@ -30,10 +30,10 @@ The framework is designed with scalability and maintainability in mind.
 - Jenkins (CI ready)
 
 
-🏗 Framework Design
+## 🏗 Framework Design
 
 The framework follows Page Object Model structure:
-src:
+- src:
   - base
   - pages
   - tests
@@ -48,8 +48,6 @@ Key Components:
 - **Listener** → Capture screenshot on failure & generate report
 - **ExtentReportManager** → Reporting configuration
 
----
-
 ## ▶ How to Run the Tests
 
 ### Run via Maven:
@@ -61,14 +59,14 @@ Key Components:
 #### /reports/ExtentReport.html
 
 
-📊 Reporting
+## 📊 Reporting
 * HTML report using Extent Reports
 * Screenshot automatically captured for failed test cases
 * Execution timestamp and detailed step logs
 <img width="1280" height="684" alt="image" src="https://github.com/user-attachments/assets/420f7e96-602b-43a2-b005-318ebf3a8989" />
 
 
-🎯 Automation Scope
+## 🎯 Automation Scope
 
  This project demonstrates:
 - Functional UI automation
@@ -79,7 +77,7 @@ Key Components:
 - Failure handling & evidence collection
 
 
-👨‍💻 Author
+## 👨‍💻 Author
 #### Naufal Firaas
 #### QA Engineer | Automation Enthusiast
 #### Open to remote & freelance opportunities
