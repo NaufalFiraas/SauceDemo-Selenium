@@ -17,13 +17,16 @@ This project automates end-to-end test scenarios for SauceDemo web application i
 - Screenshot capture on failure
 - HTML execution report generation
 
+The framework is designed with scalability and maintainability in mind.
+
+---
+
 ## Bug Analysis Approach:
 Since no formal requirements were provided, expected behaviors were derived from:
 - Common e-commerce conventions
 - Logical data flow integrity
 - UI consistency principles
 
-The framework is designed with scalability and maintainability in mind.
 
 ---
 
