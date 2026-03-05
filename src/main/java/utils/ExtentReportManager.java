@@ -13,8 +13,7 @@ public class ExtentReportManager {
 
     public static ExtentReports getInstance() {
         if (extent == null) {
-            String timestamp = new SimpleDateFormat("yyyy-MM-dd_HH:mm").format(new Date());
-            ExtentSparkReporter spark = new ExtentSparkReporter("reports/ExtentReport" + timestamp + ".html");
+            ExtentSparkReporter spark = new ExtentSparkReporter("reports/ExtentReport.html");
             spark.config().setDocumentTitle("SauceDemo Automation");
             spark.config().setReportName("SauceDemo Test Execution Report");
 
